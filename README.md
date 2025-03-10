@@ -1,5 +1,3 @@
-# Introduction-au-langage-C
-
 # 📌 **1. Introduction au langage C**
 Le langage **C** est un langage de programmation bas niveau, efficace et puissant. Il est utilisé pour la programmation système, les systèmes embarqués et le développement de logiciels performants.
 
